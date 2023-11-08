@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Contact me on Codementor](https://www.codementor.io/m-badges/liam-williams/book-session.svg)](https://www.codementor.io/@liam-williams?refer=badge)
 <!--
 **theangrydev/theangrydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
